@@ -1,18 +1,18 @@
 [
   {
-		"key": "学院名称",
-		"content": "管理学院"
+		id: 1,
+		answer: ["管理学院"]
 	},
 	{
-		"key": "学号",
-		"content": "20201101"
+		id: 2,
+		answer: ["管理学院"]
 	},
 	{
-		"key": "姓名",
-		"content": "张三"
+		id: 3,
+		answer: ["管理学院"]
 	},
 	{
-		"key": "专业",
-		"content": "市场营销"
+		id: 4,
+		answer: ["管理学院"]
 	}
 ]
